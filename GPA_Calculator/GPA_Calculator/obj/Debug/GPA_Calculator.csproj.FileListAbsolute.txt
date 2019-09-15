@@ -1,0 +1,14 @@
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csprojAssemblyReference.cache
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.Form1.resources
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.Properties.Resources.resources
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csproj.GenerateResource.cache
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\GPA_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\bin\Debug\GPA Calculator.exe.config
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\bin\Debug\GPA Calculator.exe
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\bin\Debug\GPA Calculator.pdb
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\GPA Calculator.exe
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\GPA Calculator.pdb
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\bin\Debug\GPA Calculator.exe.manifest
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\bin\Debug\GPA Calculator.application
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\GPA Calculator.exe.manifest
+C:\Users\pyles\Desktop\GPA_Calculator\GPA_Calculator\obj\Debug\GPA Calculator.application
